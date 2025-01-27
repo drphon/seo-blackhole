@@ -1,0 +1,3 @@
+2025-01-25 16:21:27,145 - INFO - Starting cleanup process at 2025-01-25 16:21:27.145825
+2025-01-25 16:21:27,146 - INFO - Processing directory: E:\1-python\SEO-BLACKHOLE\2-project\1-scraping-keyword-content
+2025-01-25 16:21:27,154 - ERROR - Error during cleanup: [WinError 32] The process cannot access the file because it is being used by another process: 'E:\\1-python\\SEO-BLACKHOLE\\2-project\\1-scraping-keyword-content\\cleanup_log.txt'

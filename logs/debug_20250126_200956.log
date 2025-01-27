@@ -1,0 +1,4 @@
+2025-01-26 23:39:56,914 - DEBUG - Configuration loaded with 19 settings
+2025-01-26 23:39:56,915 - DEBUG - Directories created: E:\1-python\SEO-BLACKHOLE\2-project\1-scraping-keyword-content\output, E:\1-python\SEO-BLACKHOLE\2-project\1-scraping-keyword-content\images, E:\1-python\SEO-BLACKHOLE\2-project\1-scraping-keyword-content\content, E:\1-python\SEO-BLACKHOLE\2-project\1-scraping-keyword-content\cookies, E:\1-python\SEO-BLACKHOLE\2-project\1-scraping-keyword-content\logs
+2025-01-26 23:40:32,106 - web_scraper - ERROR - Browser initialization error: 'ContentProcessor' object has no attribute 'page_load_timeout'
+2025-01-26 23:40:43,513 - content_processor - INFO - [33mPerforming cleanup...[0m

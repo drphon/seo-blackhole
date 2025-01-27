@@ -1,0 +1,10 @@
+undetected-chromedriver==3.5.3
+selenium==4.15.2
+fake-useragent==1.4.0
+tqdm==4.66.1
+colorama==0.4.6
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.1.3
+openpyxl==3.1.2
+xlsxwriter==3.1.9

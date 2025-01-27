@@ -1,0 +1,6 @@
+Configuration loaded with 19 settings
+Directories created: E:\1-python\SEO-BLACKHOLE\2-project\1-scraping-keyword-content\output, E:\1-python\SEO-BLACKHOLE\2-project\1-scraping-keyword-content\images, E:\1-python\SEO-BLACKHOLE\2-project\1-scraping-keyword-content\content, E:\1-python\SEO-BLACKHOLE\2-project\1-scraping-keyword-content\cookies, E:\1-python\SEO-BLACKHOLE\2-project\1-scraping-keyword-content\logs
+patching driver executable C:\Users\Lenovo ideapad 330S\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+Browser initialization error: 'ContentProcessor' object has no attribute 'page_load_timeout'
+Unexpected error: Browser initialization error: 'ContentProcessor' object has no attribute 'page_load_timeout'
+[33mPerforming cleanup...[0m
